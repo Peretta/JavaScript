@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Introdução</title>
+    <script src="script.js"></script><!--PRIMEIRO SCRIPT A SER CARREGADO-->
+</head>
+<body>
+    <h1>Onde colocar o código JS?</h1>
+
+    <p>
+        Pode ser executado de duas formas. 
+        Com a tag SCRIPT ou em um arquivo separado! 
+        O aqruivo script externo tem que ser posto no lugar certo do código HTML,
+        pois afeta o carregamento da página! Pode ser que ao tentar manipular o H1, 
+        se o script no HEADER, o código não funcionará, pois isso faz com que o JS carregue antes da tag.
+    </p>
+    <script src="script.js"></script><!--SEGUNDO SCRIPT A SER CARREGADO-->
+    <script>
+    
+    document.write('Este código foi escrito com uma tag script =) ');
+    
+    </script>
+    <!--RECOMENDAÇÃO: COLOQUE NO FIM DO CÓDIGO-->
+</body>
+</html>
