@@ -33,23 +33,30 @@ This repository aims to store content related to JavaScript.
 ## Módulo 2: JavaScript Básico
 
 - Introdução a Funções
--- Declarando uma Função
--- Como Usar uma Função
--- Passando Parâmetros em Funções
--- Retorno da Função
--- Função com Retorno Condicional
--- Exercícios de Função
--- Arrow Function
--- Variáveis Dentro de Funções
--- Funções Dentro de Funções
+  - Declarando uma Função
+  - Como Usar uma Função
+  - Passando Parâmetros em Funções
+  - Retorno da Função
+  - Função com Retorno Condicional
+  - Exercícios de Função
+  - Arrow Function
+  - Variáveis Dentro de Funções
+  - Funções Dentro de Funções
 
 - Introdução a Array
--- Operações Básicas de Array
--- Exercício de Array
-
+  - Operações Básicas de Array
+  - Exercício de Array
+  - Função de Arrays
+  - Ordenação de Arrays
+  - Iteração de Array
+  
 - Introdução a Objetos
--- Acessando e Modificando Objetos
--- Função Dentro de Objeto
+  - Acessando e Modificando Objetos
+  - Função Dentro de Objeto
 
-- O Loop for
--- Dando Loop em Arrays
+- Lop
+  - O Loop for
+  - Dando Loop em Arrays
+  - O loop while
+  - Exercícios
+
